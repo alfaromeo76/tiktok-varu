@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-selenium
-requests
 jinja2
+requests
+selenium
 python-multipart
